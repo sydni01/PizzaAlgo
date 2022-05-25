@@ -1,0 +1,22 @@
+1. Decide which restaurant to order from
+2. Pull up the menu
+3. Decide which type of pizza to order 
+        Choose pizza style
+        Choose pizza size
+        Choose toppings
+Decide how to order 
+      Online order 
+      Use order from
+      Select pickup or delivery 
+      Pay for pizza 
+      Get pizza
+      or Call 
+      Call to orderPickup or delivery
+      Pay for pizza
+      Get pizza 
+      or in Person
+      Pick up the phone
+      Order pizza
+3. Call the restaurant 
+4. Order pizza 
+5. Wait for pizza to be made 
