@@ -19,4 +19,7 @@ Decide how to order
       Order pizza
 3. Call the restaurant 
 4. Order pizza 
+Pay for your pizza 
 5. Wait for pizza to be made 
+Eat pizza
+Review/Rate
