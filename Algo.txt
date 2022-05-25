@@ -21,5 +21,9 @@ Decide how to order
 4. Order pizza 
 Pay for your pizza 
 5. Wait for pizza to be made 
+If order is wrong
+  call restaurant
+  wait for new pizza
+  or refund
 Eat pizza
 Review/Rate
